@@ -1,8 +1,6 @@
 /**
-*@author: Veranika Tolkach
-*Assignment 2
-*Problem 4 page 181
-* This program takes three test scores, and displays their average, 
+*@author: Veronika Ferrucci
+* This program takes three test scores and displays their average 
 and a grade. 
 **/
 import javax.swing.JOptionPane;
